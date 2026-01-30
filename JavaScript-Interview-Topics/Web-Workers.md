@@ -196,3 +196,5 @@ There are a few specialized types of Web Workers:
 https://dev.to/helmuthdu/web-workers-the-unsung-heroes-of-responsive-web-apps-3j78
 
 https://dev.to/mino/unlocking-performance-a-comprehensive-guide-to-web-workers-25i7
+
+https://github.com/ZeeshanAli-0704/front-end-system-design/blob/main/Concepts/Web_Worker_SharedWorker_and_Service_Worker.md

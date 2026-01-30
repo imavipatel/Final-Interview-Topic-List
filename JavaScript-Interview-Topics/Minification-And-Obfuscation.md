@@ -1,6 +1,6 @@
 ## Minification(Uglification):
 
-Minification is the process of removing unnecessary characters like whitespace, comments, unused variables from your JavaScript files to reduce their size. This helps decrease load times and improve performance.
+Minification is the process of removing unnecessary redundant characters like whitespace, comments, line breaks, unused variables from your JavaScript files to reduce their size. This helps decrease load times and improve performance.
 
 **Uses:**
 
@@ -122,7 +122,15 @@ Makes it more difficult for users to bypass license checks or unlock premium fea
 
 **Dead Code Injection:** Inserts non-functional, misleading code blocks that do not affect the program's output but increase the complexity and size of the codebase to confuse analysts.
 
-## Gzip vs. Brotli Compression: What’s the Difference?
+# Compression
+
+Reduces bundle size by encoding files, into more efficient format size.
+
+## Gzip vs. Brotli Compression:
+
+- Both are plugins
+
+**What’s the Difference?**
 
 Compression takes your minified files and reduces them even further, making them faster to transfer over the web. But which compression method should you use? Let’s break it down:
 

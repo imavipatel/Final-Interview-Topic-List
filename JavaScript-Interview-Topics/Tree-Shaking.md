@@ -2,6 +2,14 @@
 
 As JavaScript projects grow, bundle sizes tend to explode. That means slower load times, higher bandwidth usage, and frustrated users.
 
+**Tree Shaking** commonly used in javascript to describe removal of dead code.
+
+- It relies on import and export statement to detect if code modules are exported or imported between javascript files.
+- In modern JS Application we use module bundlers like **webpack, rollup** to automatically remove dead code when bundling multiple js files into single files.
+- This is important for preparing code that is production ready with clean structure and minimal file size.
+
+# Tree Shaking
+
 **Tree Shaking** is the process of removing unused or “dead” code during the build step.
 If a function, variable, or module isn’t actually used anywhere, it gets excluded from the final bundle.
 It’s called “tree shaking” because the build tool shakes the dependency tree and drops dead leaves 🍃.

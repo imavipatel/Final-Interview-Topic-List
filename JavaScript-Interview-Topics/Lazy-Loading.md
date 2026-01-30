@@ -1,10 +1,4 @@
-## Code Splitting And Lazy Loading
-
-## Code Splitting:
-
-Code splitting allows you to split your application into smaller bundles that can be loaded independently. This technique helps reduce the initial load time by loading only the necessary code.
-
-## Lazy Loading
+# Lazy Loading
 
 Lazy loading is a technique where components, images, or other resources are loaded only when needed instead of at the initial app startup. This helps in reducing the initial bundle size and optimizing performance.
 
