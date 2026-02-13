@@ -583,6 +583,14 @@ https://medium.com/@mariyanesan98/master-secure-authentication-in-react-native-w
 
 # Javascript Interview Blogs
 
+**8 Must-Know JavaScript Interview Questions (with Explanations)**
+
+https://freedium-mirror.cfd/https://javascript.plainenglish.io/8-must-know-javascript-interview-questions-with-explanations-a9c9e9853435
+
+**Tricky JavaScript Interview Questions You Should Know**
+
+https://freedium-mirror.cfd/https://javascript.plainenglish.io/tricky-javascript-interview-questions-you-should-know-6f9afb7ef37d
+
 **Stop Writing If-Else Trees: Use the State Pattern Instead**
 https://javascript.plainenglish.io/stop-writing-if-else-trees-use-the-state-pattern-instead-b57a558d38a4
 
