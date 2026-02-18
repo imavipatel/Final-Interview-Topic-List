@@ -23,6 +23,9 @@ https://www.callstack.com/blog/optimize-android-app-startup-time-with-hermes
 **How Can Higher-Order Components Improve Performance of React Native Apps?**
 https://www.callstack.com/blog/improve-react-native-performance-with-higher-ordered-components
 
+The No-Fluff Guide to React Native Performance
+https://freedium-mirror.cfd/https://medium.com/@baheer224/the-no-fluff-guide-to-react-native-performance-65972f3c6a59
+
 **Optimize Your Android Application’s Size With Gradle Settings**
 https://www.callstack.com/blog/optimize-android-application-size-with-gradle-settings
 
@@ -529,6 +532,9 @@ https://medium.com/@aqeel_ahmad/code-obfuscation-in-react-native-a-comprehensive
 
 **Protecting Your React Native App: Best Practices for Security**
 https://medium.com/@Quickway_Infosystems/protecting-your-react-native-app-best-practices-for-security-34f57b82a0e4
+
+**🛡️ Mobile Application Security: Protecting Your App from Code to Cloud**
+https://freedium-mirror.cfd/https://blog.mrinalmaheshwari.com/mobile-application-security-react-native-native-data-leaks-rooted-devices-24614d1e31b2
 
 **Stop Using Async Storage to Store Tokens| React Native**
 

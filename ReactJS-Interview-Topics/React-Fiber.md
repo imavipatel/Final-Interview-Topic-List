@@ -1,5 +1,7 @@
 DOM, Virtual DOM, and React Fiber: How UI Rendering Evolved
 
+https://github.com/acdlite/react-fiber-architecture#what-is-a-fiber
+
 https://medium.com/@daniifrankb/dom-virtual-dom-and-react-fiber-how-ui-rendering-evolved-cecf32f4ace5
 
 Inside React Fiber: The Hidden Engine That Powers Modern UIs 🚀

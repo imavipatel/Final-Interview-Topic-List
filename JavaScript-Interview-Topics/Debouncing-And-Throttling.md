@@ -112,3 +112,5 @@ Yes, sometimes combined for maximum efficiency.
 
 **Debounce → "Wait until done"** (e.g., typing search)
 **Throttle → "Do at regular pace"**(e.g., scroll)
+
+https://sugandsingh5566.medium.com/mastering-throttle-and-debounce-functions-in-react-native-with-javascript-a03965240829
